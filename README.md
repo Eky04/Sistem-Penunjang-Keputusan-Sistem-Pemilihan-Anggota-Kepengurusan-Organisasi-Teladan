@@ -1,0 +1,2 @@
+# Sistem Penunjang Keputusan Sistem Pemilihan Anggota Kepengurusan Organisasi Teladan
+Sistem Pemilihan Anggota Kepengurusan Organisasi Teladan adalah aplikasi berbasis web yang digunakan oleh PERMIKOMNAS Wilayah XII Kalimantan untuk menilai dan memilih anggota kepengurusan terbaik secara objektif. Aplikasi ini menerapkan metode Simple Additive Weighting (SAW) sebagai dasar perhitungan, di mana setiap kandidat dinilai berdasarkan kriteria yang telah ditentukan.
