@@ -1,15 +1,17 @@
-# Sistem Pendukung Keputusan SAW - Mahasiswa Berprestasi FTI Uniska MAB
+# Sistem Pendukung Keputusan SAW - Sistem Pemilihan Anggota Kepengurusan Organisasi Teladan
 
-Sistem pendukung keputusan berbasis web untuk pemilihan mahasiswa berprestasi menggunakan metode SAW (Simple Additive Weighting).
+Sistem pendukung keputusan berbasis web untuk pemilihan Anggota Kepengurusan Organisasi Teladan
+Wilayah XII Kalimantan
+Perhimpunan Mahasiswa Informatika Dan Komputer Nasional menggunakan metode SAW (Simple Additive Weighting).
 
 ## 🎯 Deskripsi
 
-Sistem ini dirancang untuk membantu Fakultas Teknologi Informasi Uniska MAB dalam memilih mahasiswa berprestasi berdasarkan kriteria yang telah ditentukan. Metode yang digunakan adalah SAW (Simple Additive Weighting) yang merupakan salah satu metode dalam Multi-Criteria Decision Making (MCDM).
+Sistem ini dirancang untuk membantu dalam memilih Anggota Kepengurusan Organisasi Teladan berdasarkan kriteria yang telah ditentukan. Metode yang digunakan adalah SAW (Simple Additive Weighting) yang merupakan salah satu metode dalam Multi-Criteria Decision Making (MCDM).
 
 ## ✨ Fitur Utama
 
 - **Dashboard Admin**: Tampilan statistik dan ringkasan data
-- **Manajemen Mahasiswa**: CRUD data mahasiswa dengan kriteria lengkap
+- **Manajemen Mahasiswa**: CRUD data anggota dengan kriteria lengkap
 - **Manajemen Kriteria**: Pengaturan bobot dan jenis kriteria
 - **Perhitungan SAW**: Otomatis menghitung ranking berdasarkan metode SAW
 - **Hasil Ranking**: Tampilan hasil perhitungan dengan ranking
@@ -161,7 +163,7 @@ Sistem didesain responsif untuk:
 1. Copy folder ke `htdocs/`
 2. Start Apache dan MySQL
 3. Import database
-4. Akses via `http://localhost/tes-spk-ahp`
+4. Akses via `http://localhost/tes-spk-saw`
 
 ### cPanel (Hosting)
 1. Upload file via File Manager
@@ -192,7 +194,7 @@ Untuk bantuan dan dukungan teknis, silakan hubungi:
 
 ## 📄 Lisensi
 
-Proyek ini dibuat untuk keperluan akademik Fakultas Teknologi Informasi Uniska MAB.
+Proyek ini dibuat untuk keperluan Tugas ujian akhir semester.
 
 ## 🔄 Versi
 
@@ -202,4 +204,4 @@ Proyek ini dibuat untuk keperluan akademik Fakultas Teknologi Informasi Uniska M
 
 ---
 
-**© 2024 FTI Uniska MAB - Sistem Pendukung Keputusan SAW** 
+**© 2025 Siatem Informasi FTI Uniska MAB - Sistem Pendukung Keputusan SAW** 
